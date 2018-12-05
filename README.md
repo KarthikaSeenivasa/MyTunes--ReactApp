@@ -2,9 +2,8 @@
 
 
 # MyTunes App
-Remotely control Tunes on Mac without Internet!  
-Multiple clients can access the remote independently, and the UI will always be in sync    
-<br />
+Remotely control Tunes on Mac  
+
 Built using WebSockets, AppleScript, React, and Redux
 
 ## Features
@@ -12,7 +11,7 @@ Built using WebSockets, AppleScript, React, and Redux
 - Play next & previous track
 - Change volume
 - Play a particular track or playlist
-- Start iTunes if not running
+- Start Tunes if not running
 
 ## Prerequisites
 - macOS or OSX
